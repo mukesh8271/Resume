@@ -1,0 +1,45 @@
+body{
+  background-color: #7fffd4;
+  background-size: auto;
+}
+h1{
+  border: 0.5rem outset #ff8c00;
+  color: #ff8c00;
+  text-align: center;
+}
+hr{
+  color: #ff4500;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+img{
+  border-radius: 50%;
+}
+h3{
+  color: #ff8c00;
+}
+.t1{
+  border-spacing: 30px;
+}
+.t2{
+border-spacing: 20px;
+width: 50%;
+}
+.t3{
+border-spacing: 20px;
+width: 50%;
+}
+.t4{
+border-spacing: 20px;
+width: 50%;
+}
+.t5{
+border-spacing: 20px;
+width: 50%;
+}
+.t6{
+border-spacing: 20px;
+width: 50%;
+}
